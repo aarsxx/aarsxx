@@ -1,11 +1,10 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/> <img src="https://api.checklyhq.com/v1/badges/checks/0f4b4e0c-e3f0-4c0c-9a86-de7fb12d3ee6?style=flat&theme=dark" alt="checkly badge"/>
 
 <div align="center">
   <br>
   <br>
   <a href="https://github.com/andikaleonardo/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
   <p>One moment please...</p>
-  <br>
   <br>
   <br>
 </a>

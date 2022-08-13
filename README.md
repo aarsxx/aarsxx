@@ -1,6 +1,14 @@
-### Hello World 👋
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/>
+
+<div align="center">
+  <br>
+  <br>
+  <a href="https://github.com/andikaleonardo/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
+  <p>One moment please...</p>
+  <br>
+  <br>
+  <br>
+</a>
 
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

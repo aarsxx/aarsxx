@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/> <img src="https://api.checklyhq.com/v1/badges/checks/0f4b4e0c-e3f0-4c0c-9a86-de7fb12d3ee6?style=flat&theme=dark" alt="checkly badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/> 
 
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

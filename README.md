@@ -1,7 +1,5 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/> 
 
-📊 **This Week I Spent My Time On** 
-
 ```text
 💬 Programming Languages: 
 TypeScript               4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.18 %

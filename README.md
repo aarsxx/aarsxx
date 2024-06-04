@@ -1,16 +1,20 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andikaleonardo.andikaleonardo" alt="visitor badge"/> 
 
-<!--
-**andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **This Week I Spent My Time On** 
 
-Here are some ideas to get you started:
+```text
+💬 Programming Languages: 
+TypeScript               4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.18 %
+Go                       2 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   18.71 % 
+JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Dart                     1 hr 00 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Editors: 
+WebStorm                 8 hrs 55 mins       ████████████████████░░░░░   70.38 % 
+Goland                   3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   29.61 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Mac                      9 hrs 52 mins       █████████████████████████   100.00 % 
+```

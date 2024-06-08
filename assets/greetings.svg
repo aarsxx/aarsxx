@@ -23,7 +23,7 @@
 
                 h1 {
                 font-size: 1.5em;
-                margin: 2px 0 0 0;
+                margin: 7px 0 0 0;
                 }
 
                 .wave {
@@ -43,7 +43,7 @@
                 👋
             </h1>
             <h1 class="text">
-                Hello, aarsxx here!
+                Hi, aarsxx here!
             </h1>
         </div>
     </foreignObject>

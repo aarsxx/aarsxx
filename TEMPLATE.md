@@ -4,4 +4,4 @@
 
 Over **{{ ACCOUNT_AGE }}** years on GitHub,  pushed  **{{ COMMITS }}** commits, opened  **{{ ISSUES }}** issues, and submitted  **{{ PULL_REQUESTS }}** pull requests.
 
-<p align="right"><samp>Checkout my site -> <a href="https://arsx.xyz">arsx</a></samp></p>
+<samp>Checkout my site -> <a href="https://arsx.xyz">arsx</a></samp>

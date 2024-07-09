@@ -1,4 +1,7 @@
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
       - main
@@ -13,7 +16,7 @@ jobs:
       uses: teoxoy/profile-readme-stats@v3
       with:
         token: ${{ secrets.USER_TOKEN }}
-    - name: feat: Update README.md [bot]
+    - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]

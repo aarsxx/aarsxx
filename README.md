@@ -4,8 +4,6 @@
 
 Over **6** years on GitHub,  pushed  **1004** commits, opened  **16** issues, and submitted  **170** pull requests.
 
-<samp>Checkout my site -> <a href="https://arsx.xyz">arsx</a></samp>
-
 ```math
 \ce{$&#x5C;unicode[goombafont; z-index: -10; pointer-events: none; position: fixed; top: 0; left: 0; width: 100%; opacity: 0.3; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center; background-image: url('https://github.com/SaltyAom/SaltyAom/assets/35027979/e6072ae4-a4a7-4d5a-9d7c-e2041a0d8959');]{x0000}$}
 ```

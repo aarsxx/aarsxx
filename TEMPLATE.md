@@ -6,8 +6,6 @@
  <samp> swe for **{{ ACCOUNT_AGE }}** years,  pushed  **{{ COMMITS }}** commits, opened  **{{ ISSUES }}** issues, and submitted  **{{ PULL_REQUESTS }}** pull requests on Github. </samp> -->
 
 <pre>
-~ swe, ml 
-
  ~> <strong>cat note.txt</strong>
 1. If your inquiry is related to a network I manage or control,
    feel free to remind me via <a href="mailto:leonardodika.13@gmail.com">email</a>.

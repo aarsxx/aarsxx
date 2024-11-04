@@ -6,14 +6,7 @@
  <samp> swe for **6** years,  pushed  **1081** commits, opened  **16** issues, and submitted  **173** pull requests on Github. </samp> -->
 
 <pre>
- ~> <strong>cat note.txt</strong>
-1. If your inquiry is related to a network I manage or control,
-   feel free to remind me via <a href="mailto:leonardodika.13@gmail.com">email</a>.
-2. if it's a P1 emergency, you can email ops@superlativ.dev .
-
- ~> <strong>finger arsx</strong>
-Login: arsx                             Name: arsx
-Directory: /home/arsx                   Shell: /usr/bin/fish
+What a Sigma
 </pre>
 
 [**www**](https://arsx.xyz/)

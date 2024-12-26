@@ -5,19 +5,12 @@
 
  <samp> swe for **{{ ACCOUNT_AGE }}** years,  pushed  **{{ COMMITS }}** commits, opened  **{{ ISSUES }}** issues, and submitted  **{{ PULL_REQUESTS }}** pull requests on Github. </samp> -->
 
-<pre>
- ~> <strong>cat note.txt</strong>
-1. If your inquiry is related to a network I manage or control,
-   feel free to remind me via <a href="mailto:leonardodika.13@gmail.com">email</a>.
-2. if it's a P1 emergency, you can email ops@superlativ.dev .
-
- ~> <strong>finger arsx</strong>
-Login: arsx                             Name: arsx
-Directory: /home/arsx                   Shell: /usr/bin/fish
-</pre>
-
-[**www**](https://arsx.xyz/)
-[**superlativ**](https://superlativ.dev)
+<div align="center">
+  <br>
+  <a href="https://github.com/aarsxx/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
+  <p>One moment please...</p>
+  <br>
+</a>
 
 <!-- is my profile readme not mobile-friendly? I'd love to improve. let me know your suggestions -->
 
